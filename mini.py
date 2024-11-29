@@ -60,14 +60,25 @@ Enter...
 2 for Paper, or
 3 for Scissors:
 
-2
+1
 
-You chose Paper.
+You chose Rock.
 Python chose Paper.
 
-😯Tie game!
+🐉Python wins!
 
-    '''
+Play again?
+Y for Yes or
+ Q to quit
+
+q
+
+🎉🎉🎉
+Thankyou for playing!
+
+Bye! 👋👋
+
+'''
 
 
 
